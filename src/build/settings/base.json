@@ -1,0 +1,6 @@
+{
+    "app_name": "HClusterV1",
+    "author": "Kevin de Oliveira",
+    "main_module": "src/main/python/hclusterv1/main.py",
+    "version": "0.0.0"
+}

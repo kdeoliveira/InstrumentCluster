@@ -1,0 +1,18 @@
+Declaring module from QtObject
+
+/project/import/ModuleName
+
+<qmldir>
+singleton <TypeName> <Version> <FileName>
+
+<qml>
+pragma Singleton
+
+QtObject{
+   (...)
+}
+
+<main_qml>
+import ModuleName
+
+(...)

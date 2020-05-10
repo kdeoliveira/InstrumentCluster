@@ -1,0 +1,3098 @@
+{
+    "pluginInfo": {
+        "apiVersion": {
+            "minor": 4,
+            "micro": 0,
+            "major": 9
+        },
+        "applicationId": "PHXS",
+        "extensionID": "io.qt.QtBridge.exporter",
+        "extensionVersion": "1.4.0",
+        "scaleFactor": 1,
+        "systemId": "23133862",
+        "processId": "8b4",
+        "applicationVersion": "21.0.2",
+        "metadataVersion": "1.1",
+        "extensionBuildNumber": "0412191330"
+    },
+    "documentInfo": {
+        "name": "cluster.psd",
+        "id": 219,
+        "height": 6000,
+        "width": 12334,
+        "metadata": {
+            "jsonExportPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219"
+        },
+        "pixelAspectRatio": 1
+    },
+    "artboards": [
+        {
+            "name": "top_cluster",
+            "id": 75,
+            "layerIndex": 78,
+            "left": 4277,
+            "top": 772,
+            "right": 8039,
+            "bottom": 1147,
+            "haveAsset": false,
+            "metadata": {
+                "uuid": "75::f6a9a43277460a6c004696723408daef",
+                "qmlId": "top_cluster_219_75",
+                "exportType": "component"
+            },
+            "children": [
+                {
+                    "name": "13:15 - Saturday, 21th April",
+                    "id": 78,
+                    "layerIndex": 77,
+                    "top": 1042,
+                    "left": 5866,
+                    "bottom": 1105,
+                    "right": 6469,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "78::5011a2fb2974f600e75c50017ab266a7",
+                        "qmlId": "_15_saturday_21th_ap_219_78",
+                        "exportType": "child",
+                        "textDetails": {
+                            "antiAliasMethod": "AntiAlias.SHARP",
+                            "autoKerning": "AutoKernType.METRICS",
+                            "color": {
+                                "model": "ColorModel.RGB",
+                                "rgb": {
+                                    "red": "255",
+                                    "green": "255",
+                                    "blue": "255",
+                                    "hexValue": "FFFFFF",
+                                    "typename": "RGBColor"
+                                },
+                                "gray": {
+                                    "gray": "0",
+                                    "typename": "GrayColor"
+                                },
+                                "cmyk": {
+                                    "cyan": "0",
+                                    "magenta": "0",
+                                    "yellow": "0",
+                                    "black": "0",
+                                    "typename": "CMYKColor"
+                                },
+                                "lab": {
+                                    "l": "100",
+                                    "a": "-0.5",
+                                    "b": "-0.5",
+                                    "typename": "LabColor"
+                                },
+                                "hsb": {
+                                    "hue": "0",
+                                    "saturation": "0",
+                                    "brightness": "100",
+                                    "typename": "HSBColor"
+                                },
+                                "nearestWebColor": {
+                                    "red": "255",
+                                    "green": "255",
+                                    "blue": "255",
+                                    "hexValue": "FFFFFF",
+                                    "typename": "RGBColor"
+                                },
+                                "typename": "SolidColor"
+                            },
+                            "useAutoLeading": "false",
+                            "tracking": "0",
+                            "verticalScale": "100",
+                            "horizontalScale": "100",
+                            "baselineShift": "0 px",
+                            "contents": "13:15 - Saturday, 21th April",
+                            "font": "Dosis",
+                            "leading": "264.041320800781 px",
+                            "ligatures": "true",
+                            "alternateLigatures": "false",
+                            "position": {
+                                "0": "6169.32576822879 px",
+                                "1": "1089.71169026274 px"
+                            },
+                            "direction": "Direction.HORIZONTAL",
+                            "size": "63.3699188232422 px",
+                            "fauxBold": "false",
+                            "fauxItalic": "false",
+                            "capitalization": "TextCase.NORMAL",
+                            "strikeThru": "StrikeThruType.STRIKEOFF",
+                            "underline": "UnderlineType.UNDERLINEOFF",
+                            "language": "Language.ENGLISHUSA",
+                            "noBreak": "false",
+                            "kind": "TextType.POINTTEXT",
+                            "justification": "Justification.CENTER",
+                            "hyphenation": "true",
+                            "warpStyle": "WarpStyle.NONE",
+                            "warpDirection": "Direction.HORIZONTAL",
+                            "warpBend": "0",
+                            "warpHorizontalDistortion": "0",
+                            "warpVerticalDistortion": "0",
+                            "typename": "TextItem"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "oil_temp",
+            "id": 47,
+            "layerIndex": 75,
+            "left": 8039,
+            "top": 4611,
+            "right": 11099,
+            "bottom": 5404,
+            "haveAsset": false,
+            "metadata": {
+                "uuid": "47::78a18dfd2bdbd2a9171ecf81ce7cadce",
+                "qmlId": "oil_temp_219_47",
+                "exportType": "component"
+            },
+            "children": [
+                {
+                    "name": "H",
+                    "id": 53,
+                    "layerIndex": 74,
+                    "top": 4745,
+                    "left": 10864,
+                    "bottom": 4872,
+                    "right": 10949,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "53::e14e44854694d878afa42a8c74f51432",
+                        "qmlId": "h_219_53",
+                        "exportType": "child",
+                        "textDetails": {
+                            "antiAliasMethod": "AntiAlias.SHARP",
+                            "color": {
+                                "model": "ColorModel.RGB",
+                                "rgb": {
+                                    "red": "17.0008501410484",
+                                    "green": "17.0008501410484",
+                                    "blue": "17.0008501410484",
+                                    "hexValue": "111111",
+                                    "typename": "RGBColor"
+                                },
+                                "gray": {
+                                    "gray": "94.9462890625",
+                                    "typename": "GrayColor"
+                                },
+                                "cmyk": {
+                                    "cyan": "73.2818603515625",
+                                    "magenta": "67.2088623046875",
+                                    "yellow": "65.7379150390625",
+                                    "black": "82.568359375",
+                                    "typename": "CMYKColor"
+                                },
+                                "lab": {
+                                    "l": "5.06591796875",
+                                    "a": "-0.5",
+                                    "b": "-0.5",
+                                    "typename": "LabColor"
+                                },
+                                "hsb": {
+                                    "hue": "0",
+                                    "saturation": "0",
+                                    "brightness": "6.6680908203125",
+                                    "typename": "HSBColor"
+                                },
+                                "nearestWebColor": {
+                                    "red": "0",
+                                    "green": "0",
+                                    "blue": "0",
+                                    "hexValue": "000000",
+                                    "typename": "RGBColor"
+                                },
+                                "typename": "SolidColor"
+                            },
+                            "useAutoLeading": "false",
+                            "horizontalScale": "100",
+                            "baselineShift": "0 px",
+                            "contents": "H",
+                            "font": "Dosis",
+                            "leading": "173.015594482422 px",
+                            "position": {
+                                "0": "-27973.5 px",
+                                "1": "-31134.1666666667 px"
+                            },
+                            "direction": "Direction.HORIZONTAL",
+                            "size": "173.01557858785 px",
+                            "language": "Language.ENGLISHUSA",
+                            "kind": "TextType.POINTTEXT",
+                            "leftIndent": "0 px",
+                            "firstLineIndent": "0 px",
+                            "rightIndent": "0 px",
+                            "spaceBefore": "0 px",
+                            "spaceAfter": "0 px",
+                            "warpStyle": "WarpStyle.NONE",
+                            "warpDirection": "Direction.HORIZONTAL",
+                            "warpBend": "0",
+                            "warpHorizontalDistortion": "0",
+                            "warpVerticalDistortion": "0",
+                            "typename": "TextItem"
+                        }
+                    }
+                },
+                {
+                    "name": "C",
+                    "id": 52,
+                    "layerIndex": 73,
+                    "top": 4745,
+                    "left": 8190,
+                    "bottom": 4873,
+                    "right": 8272,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "52::f567f268eed33d2984c1ee195b785ef3",
+                        "qmlId": "c_219_52",
+                        "exportType": "child",
+                        "textDetails": {
+                            "antiAliasMethod": "AntiAlias.SHARP",
+                            "color": {
+                                "model": "ColorModel.RGB",
+                                "rgb": {
+                                    "red": "17.0008501410484",
+                                    "green": "17.0008501410484",
+                                    "blue": "17.0008501410484",
+                                    "hexValue": "111111",
+                                    "typename": "RGBColor"
+                                },
+                                "gray": {
+                                    "gray": "94.9462890625",
+                                    "typename": "GrayColor"
+                                },
+                                "cmyk": {
+                                    "cyan": "73.2818603515625",
+                                    "magenta": "67.2088623046875",
+                                    "yellow": "65.7379150390625",
+                                    "black": "82.568359375",
+                                    "typename": "CMYKColor"
+                                },
+                                "lab": {
+                                    "l": "5.06591796875",
+                                    "a": "-0.5",
+                                    "b": "-0.5",
+                                    "typename": "LabColor"
+                                },
+                                "hsb": {
+                                    "hue": "0",
+                                    "saturation": "0",
+                                    "brightness": "6.6680908203125",
+                                    "typename": "HSBColor"
+                                },
+                                "nearestWebColor": {
+                                    "red": "0",
+                                    "green": "0",
+                                    "blue": "0",
+                                    "hexValue": "000000",
+                                    "typename": "RGBColor"
+                                },
+                                "typename": "SolidColor"
+                            },
+                            "useAutoLeading": "false",
+                            "horizontalScale": "100",
+                            "baselineShift": "0 px",
+                            "contents": "C",
+                            "font": "Dosis",
+                            "leading": "173.015594482422 px",
+                            "position": {
+                                "0": "-27973.5 px",
+                                "1": "-31134.1666666667 px"
+                            },
+                            "direction": "Direction.HORIZONTAL",
+                            "size": "173.01557858785 px",
+                            "language": "Language.ENGLISHUSA",
+                            "kind": "TextType.POINTTEXT",
+                            "leftIndent": "0 px",
+                            "firstLineIndent": "0 px",
+                            "rightIndent": "0 px",
+                            "spaceBefore": "0 px",
+                            "spaceAfter": "0 px",
+                            "warpStyle": "WarpStyle.NONE",
+                            "warpDirection": "Direction.HORIZONTAL",
+                            "warpBend": "0",
+                            "warpHorizontalDistortion": "0",
+                            "warpVerticalDistortion": "0",
+                            "typename": "TextItem"
+                        }
+                    }
+                },
+                {
+                    "name": "<Path>",
+                    "id": 46,
+                    "layerIndex": 72,
+                    "top": 4638,
+                    "left": 8065,
+                    "bottom": 5383,
+                    "right": 11072,
+                    "haveAsset": false,
+                    "metadata": {
+                        "exportType": "skip",
+                        "qmlId": "_path__219_46"
+                    }
+                },
+                {
+                    "name": "<Path>",
+                    "id": 45,
+                    "layerIndex": 71,
+                    "top": 4611,
+                    "left": 8039,
+                    "bottom": 5404,
+                    "right": 11099,
+                    "haveAsset": true,
+                    "metadata": {
+                        "exportType": "child",
+                        "uuid": "45::1225d231ba8e266779acaad38912af7c",
+                        "qmlId": "_path__219_45",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/_path__219_45_219_45.png",
+                            "assetBounds": {
+                                "top": 4611,
+                                "left": 8039,
+                                "bottom": 5404,
+                                "right": 11099
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "speedometer",
+            "id": 71,
+            "layerIndex": 69,
+            "left": 7177,
+            "top": 595,
+            "right": 11970,
+            "bottom": 5404,
+            "haveAsset": true,
+            "metadata": {
+                "uuid": "71::239a426d2ba7490bcb627e60b90bfdc5",
+                "qmlId": "speedometer_219_71",
+                "exportType": "component",
+                "assetData": {
+                    "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/speedometer_219_71_219_71.png",
+                    "assetBounds": {
+                        "top": 595,
+                        "left": 7177,
+                        "bottom": 4192,
+                        "right": 11970
+                    }
+                }
+            },
+            "children": [
+                {
+                    "name": "<Path>",
+                    "id": 44,
+                    "layerIndex": 42,
+                    "top": 595,
+                    "left": 7177,
+                    "bottom": 4192,
+                    "right": 11970,
+                    "haveAsset": false,
+                    "metadata": {
+                        "qmlId": "_path__219_44",
+                        "exportType": "merged"
+                    }
+                },
+                {
+                    "name": "center_circle",
+                    "id": 67,
+                    "layerIndex": 68,
+                    "top": 1700,
+                    "left": 8267,
+                    "bottom": 4312,
+                    "right": 10879,
+                    "haveAsset": true,
+                    "metadata": {
+                        "uuid": "67::5454da9a6f77f37cc9e9b7b43cf83631",
+                        "qmlId": "center_circle_219_67",
+                        "exportType": "child",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/center_circle_219_67_219_67.png",
+                            "assetBounds": {
+                                "top": 1700,
+                                "left": 8267,
+                                "bottom": 4312,
+                                "right": 10879
+                            }
+                        }
+                    },
+                    "children": [
+                        {
+                            "name": "KPH",
+                            "id": 70,
+                            "layerIndex": 67,
+                            "top": 3364,
+                            "left": 9426,
+                            "bottom": 3517,
+                            "right": 9721,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "70::6b0b901b0f742decd099d42dab9b3b8e",
+                                "qmlId": "kph_219_70",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "contents": "KPH",
+                                    "font": "Dosis",
+                                    "leading": "50 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "208.333333333333 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "justification": "Justification.CENTER",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "135",
+                            "id": 69,
+                            "layerIndex": 66,
+                            "top": 2613,
+                            "left": 9108,
+                            "bottom": 3227,
+                            "right": 10015,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "69::e2bc2a2ba6c38ec39f0fc77cefa4b781",
+                                "qmlId": "item_219_69",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "contents": "135",
+                                    "font": "Dosis",
+                                    "leading": "50 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "833.333333333333 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "justification": "Justification.CENTER",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 66,
+                            "layerIndex": 65,
+                            "top": 1757,
+                            "left": 8321,
+                            "bottom": 4258,
+                            "right": 10822,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_66",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Image>",
+                            "id": 65,
+                            "layerIndex": 64,
+                            "top": 1700,
+                            "left": 8267,
+                            "bottom": 4312,
+                            "right": 10879,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_image__219_65",
+                                "exportType": "merged"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "text",
+                    "id": 81,
+                    "layerIndex": 62,
+                    "top": 920,
+                    "left": 7468,
+                    "bottom": 3943,
+                    "right": 11697,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "81::fb0c3b31814b75d78cdef367a9d70e97",
+                        "qmlId": "text_219_81",
+                        "exportType": "child"
+                    },
+                    "children": [
+                        {
+                            "name": "270",
+                            "id": 63,
+                            "layerIndex": 61,
+                            "top": 3708,
+                            "left": 11183,
+                            "bottom": 3903,
+                            "right": 11532,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "63::3c61e589ff097bc434bf64187edcbab4",
+                                "qmlId": "item_219_63",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "270",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "240",
+                            "id": 62,
+                            "layerIndex": 60,
+                            "top": 2896,
+                            "left": 11365,
+                            "bottom": 3091,
+                            "right": 11697,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "62::be1592a98772e6ac9a48fb69f8e43e90",
+                                "qmlId": "item_219_62",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "240",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27980.5 px",
+                                        "1": "-31135.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "210",
+                            "id": 61,
+                            "layerIndex": 59,
+                            "top": 2018,
+                            "left": 11192,
+                            "bottom": 2213,
+                            "right": 11480,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "61::dd3707c7df4bbe761a66caef65aa6412",
+                                "qmlId": "item_219_61",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "210",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-28015.5 px",
+                                        "1": "-31150.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "180",
+                            "id": 60,
+                            "layerIndex": 58,
+                            "top": 1323,
+                            "left": 10650,
+                            "bottom": 1518,
+                            "right": 10950,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "60::3a8a0df649b9a5b1e766120ac330b63c",
+                                "qmlId": "item_219_60",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "180",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-28003.5 px",
+                                        "1": "-31135.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "150",
+                            "id": 59,
+                            "layerIndex": 57,
+                            "top": 920,
+                            "left": 9895,
+                            "bottom": 1115,
+                            "right": 10188,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "59::660e369ee16285ea953ca2d5256ac11b",
+                                "qmlId": "item_219_59",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "150",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "120",
+                            "id": 58,
+                            "layerIndex": 56,
+                            "top": 920,
+                            "left": 8962,
+                            "bottom": 1115,
+                            "right": 9255,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "58::e1730203ec979eec7e8a4d182f25d2f8",
+                                "qmlId": "item_219_58",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "120",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "90",
+                            "id": 57,
+                            "layerIndex": 55,
+                            "top": 1280,
+                            "left": 8243,
+                            "bottom": 1475,
+                            "right": 8485,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "57::4f25e97059c6b8e067aad752b74e89e3",
+                                "qmlId": "item_219_57",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "90",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "60",
+                            "id": 56,
+                            "layerIndex": 54,
+                            "top": 1990,
+                            "left": 7656,
+                            "bottom": 2185,
+                            "right": 7893,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "56::ec0be5a6175e618f7a6060e2ca9cd2b7",
+                                "qmlId": "item_219_56",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "60",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "30",
+                            "id": 55,
+                            "layerIndex": 53,
+                            "top": 2880,
+                            "left": 7468,
+                            "bottom": 3075,
+                            "right": 7706,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "55::5fc47dce807d44b29c352a6a80fa808c",
+                                "qmlId": "item_219_55",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "30",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "0",
+                            "id": 54,
+                            "layerIndex": 52,
+                            "top": 3748,
+                            "left": 7656,
+                            "bottom": 3943,
+                            "right": 7760,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "54::0de8b546ddadfc2c0c6663f49006eacc",
+                                "qmlId": "item_219_54",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "0",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "needle",
+                    "id": 79,
+                    "layerIndex": 50,
+                    "top": 1028,
+                    "left": 9531,
+                    "bottom": 3010,
+                    "right": 9616,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "79::a89071e440c160bc7176845fd0861e59",
+                        "qmlId": "needle_219_79",
+                        "exportType": "child"
+                    },
+                    "children": [
+                        {
+                            "name": "needle",
+                            "id": 64,
+                            "layerIndex": 49,
+                            "top": 1028,
+                            "left": 9531,
+                            "bottom": 3010,
+                            "right": 9616,
+                            "haveAsset": true,
+                            "metadata": {
+                                "exportType": "child",
+                                "uuid": "64::482be117e46031bac06295bc7a5241d6",
+                                "qmlId": "needle_219_64",
+                                "assetData": {
+                                    "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/needle_219_64_219_64.png",
+                                    "assetBounds": {
+                                        "top": 1028,
+                                        "left": 9531,
+                                        "bottom": 3010,
+                                        "right": 9616
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "indicator",
+                    "id": 83,
+                    "layerIndex": 47,
+                    "top": 641,
+                    "left": 7204,
+                    "bottom": 4180,
+                    "right": 11938,
+                    "haveAsset": true,
+                    "metadata": {
+                        "uuid": "83::b4e78d1e25d24bd54a617986972a9aac",
+                        "qmlId": "indicator_219_83",
+                        "exportType": "child",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/indicator_219_83_219_83.png",
+                            "assetBounds": {
+                                "top": 641,
+                                "left": 7204,
+                                "bottom": 4180,
+                                "right": 11938
+                            }
+                        }
+                    },
+                    "children": [
+                        {
+                            "name": "<Path>",
+                            "id": 51,
+                            "layerIndex": 46,
+                            "top": 699,
+                            "left": 7204,
+                            "bottom": 4180,
+                            "right": 9051,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_path__219_51",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 50,
+                            "layerIndex": 45,
+                            "top": 696,
+                            "left": 7205,
+                            "bottom": 4021,
+                            "right": 11938,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_50",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 49,
+                            "layerIndex": 44,
+                            "top": 641,
+                            "left": 7217,
+                            "bottom": 4024,
+                            "right": 11921,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_49",
+                                "exportType": "merged"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fuel",
+            "id": 13,
+            "layerIndex": 40,
+            "left": 1217,
+            "top": 4604,
+            "right": 4277,
+            "bottom": 5396,
+            "haveAsset": false,
+            "metadata": {
+                "uuid": "13::4f2d7efd6a46408f9b7dc7c03c05093c",
+                "qmlId": "fuel_219_13",
+                "exportType": "component"
+            },
+            "children": [
+                {
+                    "name": "F",
+                    "id": 18,
+                    "layerIndex": 39,
+                    "top": 4746,
+                    "left": 4045,
+                    "bottom": 4873,
+                    "right": 4123,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "18::3f23b5adf698c128fd567b40a8f6ef47",
+                        "qmlId": "f_219_18",
+                        "exportType": "child",
+                        "textDetails": {
+                            "antiAliasMethod": "AntiAlias.SHARP",
+                            "color": {
+                                "model": "ColorModel.RGB",
+                                "rgb": {
+                                    "red": "17.0008501410484",
+                                    "green": "17.0008501410484",
+                                    "blue": "17.0008501410484",
+                                    "hexValue": "111111",
+                                    "typename": "RGBColor"
+                                },
+                                "gray": {
+                                    "gray": "94.9462890625",
+                                    "typename": "GrayColor"
+                                },
+                                "cmyk": {
+                                    "cyan": "73.2818603515625",
+                                    "magenta": "67.2088623046875",
+                                    "yellow": "65.7379150390625",
+                                    "black": "82.568359375",
+                                    "typename": "CMYKColor"
+                                },
+                                "lab": {
+                                    "l": "5.06591796875",
+                                    "a": "-0.5",
+                                    "b": "-0.5",
+                                    "typename": "LabColor"
+                                },
+                                "hsb": {
+                                    "hue": "0",
+                                    "saturation": "0",
+                                    "brightness": "6.6680908203125",
+                                    "typename": "HSBColor"
+                                },
+                                "nearestWebColor": {
+                                    "red": "0",
+                                    "green": "0",
+                                    "blue": "0",
+                                    "hexValue": "000000",
+                                    "typename": "RGBColor"
+                                },
+                                "typename": "SolidColor"
+                            },
+                            "useAutoLeading": "false",
+                            "horizontalScale": "100",
+                            "baselineShift": "0 px",
+                            "contents": "F",
+                            "font": "Dosis",
+                            "leading": "173.015594482422 px",
+                            "position": {
+                                "0": "-27971.5 px",
+                                "1": "-31126.1666666667 px"
+                            },
+                            "direction": "Direction.HORIZONTAL",
+                            "size": "173.01557858785 px",
+                            "language": "Language.ENGLISHUSA",
+                            "kind": "TextType.POINTTEXT",
+                            "leftIndent": "0 px",
+                            "firstLineIndent": "0 px",
+                            "rightIndent": "0 px",
+                            "spaceBefore": "0 px",
+                            "spaceAfter": "0 px",
+                            "warpStyle": "WarpStyle.NONE",
+                            "warpDirection": "Direction.HORIZONTAL",
+                            "warpBend": "0",
+                            "warpHorizontalDistortion": "0",
+                            "warpVerticalDistortion": "0",
+                            "typename": "TextItem"
+                        }
+                    }
+                },
+                {
+                    "name": "E",
+                    "id": 17,
+                    "layerIndex": 38,
+                    "top": 4746,
+                    "left": 1372,
+                    "bottom": 4873,
+                    "right": 1451,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "17::b39b5e55de07a08c6e3eea1bb7924133",
+                        "qmlId": "e_219_17",
+                        "exportType": "child",
+                        "textDetails": {
+                            "antiAliasMethod": "AntiAlias.SHARP",
+                            "color": {
+                                "model": "ColorModel.RGB",
+                                "rgb": {
+                                    "red": "17.0008501410484",
+                                    "green": "17.0008501410484",
+                                    "blue": "17.0008501410484",
+                                    "hexValue": "111111",
+                                    "typename": "RGBColor"
+                                },
+                                "gray": {
+                                    "gray": "94.9462890625",
+                                    "typename": "GrayColor"
+                                },
+                                "cmyk": {
+                                    "cyan": "73.2818603515625",
+                                    "magenta": "67.2088623046875",
+                                    "yellow": "65.7379150390625",
+                                    "black": "82.568359375",
+                                    "typename": "CMYKColor"
+                                },
+                                "lab": {
+                                    "l": "5.06591796875",
+                                    "a": "-0.5",
+                                    "b": "-0.5",
+                                    "typename": "LabColor"
+                                },
+                                "hsb": {
+                                    "hue": "0",
+                                    "saturation": "0",
+                                    "brightness": "6.6680908203125",
+                                    "typename": "HSBColor"
+                                },
+                                "nearestWebColor": {
+                                    "red": "0",
+                                    "green": "0",
+                                    "blue": "0",
+                                    "hexValue": "000000",
+                                    "typename": "RGBColor"
+                                },
+                                "typename": "SolidColor"
+                            },
+                            "useAutoLeading": "false",
+                            "horizontalScale": "100",
+                            "baselineShift": "0 px",
+                            "contents": "E",
+                            "font": "Dosis",
+                            "leading": "173.015594482422 px",
+                            "position": {
+                                "0": "-27971.5 px",
+                                "1": "-31126.1666666667 px"
+                            },
+                            "direction": "Direction.HORIZONTAL",
+                            "size": "173.01557858785 px",
+                            "language": "Language.ENGLISHUSA",
+                            "kind": "TextType.POINTTEXT",
+                            "leftIndent": "0 px",
+                            "firstLineIndent": "0 px",
+                            "rightIndent": "0 px",
+                            "spaceBefore": "0 px",
+                            "spaceAfter": "0 px",
+                            "warpStyle": "WarpStyle.NONE",
+                            "warpDirection": "Direction.HORIZONTAL",
+                            "warpBend": "0",
+                            "warpHorizontalDistortion": "0",
+                            "warpVerticalDistortion": "0",
+                            "typename": "TextItem"
+                        }
+                    }
+                },
+                {
+                    "name": "<Path>",
+                    "id": 12,
+                    "layerIndex": 37,
+                    "top": 4630,
+                    "left": 1244,
+                    "bottom": 5375,
+                    "right": 4251,
+                    "haveAsset": false,
+                    "metadata": {
+                        "exportType": "skip",
+                        "qmlId": "_path__219_12"
+                    }
+                },
+                {
+                    "name": "<Path>",
+                    "id": 11,
+                    "layerIndex": 36,
+                    "top": 4604,
+                    "left": 1217,
+                    "bottom": 5396,
+                    "right": 4277,
+                    "haveAsset": true,
+                    "metadata": {
+                        "exportType": "child",
+                        "uuid": "11::5d76c3506fe6a0e24e0834d156bfcf26",
+                        "qmlId": "_path__219_11",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/_path__219_11_219_11.png",
+                            "assetBounds": {
+                                "top": 4604,
+                                "left": 1217,
+                                "bottom": 5396,
+                                "right": 4277
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "tachimeter",
+            "id": 42,
+            "layerIndex": 34,
+            "left": 356,
+            "top": 588,
+            "right": 5148,
+            "bottom": 5396,
+            "haveAsset": true,
+            "metadata": {
+                "uuid": "42::0e838d10ea6f036ce2ef8084a3d8af33",
+                "qmlId": "tachimeter_219_42",
+                "exportType": "component",
+                "assetData": {
+                    "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/tachimeter_219_42_219_42.png",
+                    "assetBounds": {
+                        "top": 588,
+                        "left": 356,
+                        "bottom": 4184,
+                        "right": 5148
+                    }
+                }
+            },
+            "children": [
+                {
+                    "name": "<Path>",
+                    "id": 10,
+                    "layerIndex": 8,
+                    "top": 588,
+                    "left": 356,
+                    "bottom": 4184,
+                    "right": 5148,
+                    "haveAsset": false,
+                    "metadata": {
+                        "qmlId": "_path__219_10",
+                        "exportType": "merged"
+                    }
+                },
+                {
+                    "name": "cener_circle",
+                    "id": 37,
+                    "layerIndex": 33,
+                    "top": 1696,
+                    "left": 1446,
+                    "bottom": 4304,
+                    "right": 4054,
+                    "haveAsset": true,
+                    "metadata": {
+                        "uuid": "37::ef75b50a4319d696fbbe810c3da2de5b",
+                        "qmlId": "cener_circle_219_37",
+                        "exportType": "child",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/cener_circle_219_37_219_37.png",
+                            "assetBounds": {
+                                "top": 1696,
+                                "left": 1446,
+                                "bottom": 4304,
+                                "right": 4054
+                            }
+                        }
+                    },
+                    "children": [
+                        {
+                            "name": "RPM",
+                            "id": 41,
+                            "layerIndex": 32,
+                            "top": 3364,
+                            "left": 2620,
+                            "bottom": 3517,
+                            "right": 2935,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "41::e6af0f5fe8998135e35e6e77713b70f0",
+                                "qmlId": "rpm_219_41",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "contents": "RPM",
+                                    "font": "Dosis",
+                                    "leading": "50 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "208.333333333333 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "justification": "Justification.CENTER",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4",
+                            "id": 40,
+                            "layerIndex": 31,
+                            "top": 2606,
+                            "left": 2583,
+                            "bottom": 3215,
+                            "right": 2909,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "40::55512d67ef224d7ac736c264ecd8d1fc",
+                                "qmlId": "item_219_40",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "0",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "0",
+                                            "yellow": "0",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "100",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "255",
+                                            "blue": "255",
+                                            "hexValue": "FFFFFF",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "contents": "4",
+                                    "font": "Dosis",
+                                    "leading": "50 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "833.333333333333 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "justification": "Justification.CENTER",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "x 1000",
+                            "id": 39,
+                            "layerIndex": 30,
+                            "top": 3646,
+                            "left": 2507,
+                            "bottom": 3801,
+                            "right": 2979,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "39::a895b200328f656d11cad78f5feaa59a",
+                                "qmlId": "x_1000_219_39",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "88.000496327877",
+                                            "green": "89.0001010894775",
+                                            "blue": "90.9993106126785",
+                                            "hexValue": "58595B",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "73.486328125",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "63.8458251953125",
+                                            "magenta": "55.52978515625",
+                                            "yellow": "52.6611328125",
+                                            "black": "27.532958984375",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "37.7838134765625",
+                                            "a": "-0.5933837890625",
+                                            "b": "-1.79959106445313",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "219.9462890625",
+                                            "saturation": "3.302001953125",
+                                            "brightness": "35.687255859375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "102",
+                                            "green": "102",
+                                            "blue": "102",
+                                            "hexValue": "666666",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "x 1000",
+                                    "font": "Dosis",
+                                    "leading": "23.2696304321289 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "208.333333333333 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "justification": "Justification.CENTER",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 36,
+                            "layerIndex": 29,
+                            "top": 1750,
+                            "left": 1500,
+                            "bottom": 4250,
+                            "right": 4000,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_36",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Image>",
+                            "id": 35,
+                            "layerIndex": 28,
+                            "top": 1696,
+                            "left": 1446,
+                            "bottom": 4304,
+                            "right": 4054,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_image__219_35",
+                                "exportType": "merged"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "needle",
+                    "id": 33,
+                    "layerIndex": 26,
+                    "top": 1020,
+                    "left": 2710,
+                    "bottom": 3003,
+                    "right": 2794,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "33::1983c88fe85c224d7844aae6caea137f",
+                        "qmlId": "needle_219_33",
+                        "exportType": "child"
+                    },
+                    "children": [
+                        {
+                            "name": "needle",
+                            "id": 32,
+                            "layerIndex": 25,
+                            "top": 1020,
+                            "left": 2710,
+                            "bottom": 3003,
+                            "right": 2794,
+                            "haveAsset": true,
+                            "metadata": {
+                                "exportType": "child",
+                                "uuid": "32::9ea1e760a007aedf95c5d6dd72353aad",
+                                "qmlId": "needle_219_32",
+                                "assetData": {
+                                    "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/needle_219_32_219_32.png",
+                                    "assetBounds": {
+                                        "top": 1020,
+                                        "left": 2710,
+                                        "bottom": 3003,
+                                        "right": 2794
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "text",
+                    "id": 30,
+                    "layerIndex": 23,
+                    "top": 849,
+                    "left": 644,
+                    "bottom": 3967,
+                    "right": 4897,
+                    "haveAsset": false,
+                    "metadata": {
+                        "uuid": "30::be20f4790653d4b3252bcc59a57ce1a0",
+                        "qmlId": "text_219_30",
+                        "exportType": "child"
+                    },
+                    "children": [
+                        {
+                            "name": "8",
+                            "id": 29,
+                            "layerIndex": 22,
+                            "top": 3772,
+                            "left": 4597,
+                            "bottom": 3967,
+                            "right": 4702,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "29::f8d95a0c6d761b72da35d581b0be556b",
+                                "qmlId": "item_219_29",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "0",
+                                            "blue": "0",
+                                            "hexValue": "FF0000",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "57.904052734375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "99.32861328125",
+                                            "yellow": "100",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "54.290771484375",
+                                            "a": "79.9890441894531",
+                                            "b": "69.1253967285156",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "100",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "0",
+                                            "blue": "0",
+                                            "hexValue": "FF0000",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "8",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "7",
+                            "id": 28,
+                            "layerIndex": 21,
+                            "top": 2760,
+                            "left": 4793,
+                            "bottom": 2953,
+                            "right": 4897,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "28::b9383a175300462abd8332a485837599",
+                                "qmlId": "item_219_28",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "255",
+                                            "green": "0",
+                                            "blue": "0",
+                                            "hexValue": "FF0000",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "57.904052734375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "0",
+                                            "magenta": "99.32861328125",
+                                            "yellow": "100",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "54.290771484375",
+                                            "a": "79.9890441894531",
+                                            "b": "69.1253967285156",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "100",
+                                            "brightness": "100",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "255",
+                                            "green": "0",
+                                            "blue": "0",
+                                            "hexValue": "FF0000",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "7",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "6",
+                            "id": 27,
+                            "layerIndex": 20,
+                            "top": 1817,
+                            "left": 4452,
+                            "bottom": 2012,
+                            "right": 4556,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "27::c283a79fb04c43d624ddde461ef46cf3",
+                                "qmlId": "item_219_27",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "6",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5",
+                            "id": 26,
+                            "layerIndex": 19,
+                            "top": 1119,
+                            "left": 3690,
+                            "bottom": 1314,
+                            "right": 3794,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "26::73390fcc7cfe2fd33cdc84f01f93d0cc",
+                                "qmlId": "item_219_26",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "5",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4",
+                            "id": 25,
+                            "layerIndex": 18,
+                            "top": 849,
+                            "left": 2679,
+                            "bottom": 1042,
+                            "right": 2784,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "25::f333f0e6800a055aa6480ef2e14ea4f3",
+                                "qmlId": "item_219_25",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "4",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3",
+                            "id": 24,
+                            "layerIndex": 17,
+                            "top": 1119,
+                            "left": 1720,
+                            "bottom": 1314,
+                            "right": 1824,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "24::aae2e13e364fb1e256cf92efca632a46",
+                                "qmlId": "item_219_24",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "3",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2",
+                            "id": 23,
+                            "layerIndex": 16,
+                            "top": 1774,
+                            "left": 977,
+                            "bottom": 1967,
+                            "right": 1081,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "23::bd23270bc2ca1765ded7d4bc8131fae1",
+                                "qmlId": "item_219_23",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "2",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1",
+                            "id": 22,
+                            "layerIndex": 15,
+                            "top": 2757,
+                            "left": 644,
+                            "bottom": 2950,
+                            "right": 675,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "22::e4d233ba9fed2742fdacfd07dc93fb68",
+                                "qmlId": "item_219_22",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "1",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        },
+                        {
+                            "name": "0",
+                            "id": 21,
+                            "layerIndex": 14,
+                            "top": 3740,
+                            "left": 835,
+                            "bottom": 3935,
+                            "right": 939,
+                            "haveAsset": false,
+                            "metadata": {
+                                "uuid": "21::ad7a58a52a1ac496fab5ad4b4af02e9c",
+                                "qmlId": "item_219_21",
+                                "exportType": "child",
+                                "textDetails": {
+                                    "antiAliasMethod": "AntiAlias.SHARP",
+                                    "color": {
+                                        "model": "ColorModel.RGB",
+                                        "rgb": {
+                                            "red": "218.999120593071",
+                                            "green": "218.999120593071",
+                                            "blue": "218.999120593071",
+                                            "hexValue": "DBDBDB",
+                                            "typename": "RGBColor"
+                                        },
+                                        "gray": {
+                                            "gray": "18.00537109375",
+                                            "typename": "GrayColor"
+                                        },
+                                        "cmyk": {
+                                            "cyan": "12.7288818359375",
+                                            "magenta": "9.7015380859375",
+                                            "yellow": "10.296630859375",
+                                            "black": "0",
+                                            "typename": "CMYKColor"
+                                        },
+                                        "lab": {
+                                            "l": "87.4053955078125",
+                                            "a": "-0.5",
+                                            "b": "-0.5",
+                                            "typename": "LabColor"
+                                        },
+                                        "hsb": {
+                                            "hue": "0",
+                                            "saturation": "0",
+                                            "brightness": "85.882568359375",
+                                            "typename": "HSBColor"
+                                        },
+                                        "nearestWebColor": {
+                                            "red": "204",
+                                            "green": "204",
+                                            "blue": "204",
+                                            "hexValue": "CCCCCC",
+                                            "typename": "RGBColor"
+                                        },
+                                        "typename": "SolidColor"
+                                    },
+                                    "useAutoLeading": "false",
+                                    "horizontalScale": "100",
+                                    "baselineShift": "0 px",
+                                    "contents": "0",
+                                    "font": "Dosis",
+                                    "leading": "264.041320800781 px",
+                                    "position": {
+                                        "0": "-27962.5 px",
+                                        "1": "-31129.1666666667 px"
+                                    },
+                                    "direction": "Direction.HORIZONTAL",
+                                    "size": "264.041328430176 px",
+                                    "language": "Language.ENGLISHUSA",
+                                    "kind": "TextType.POINTTEXT",
+                                    "leftIndent": "0 px",
+                                    "firstLineIndent": "0 px",
+                                    "rightIndent": "0 px",
+                                    "spaceBefore": "0 px",
+                                    "spaceAfter": "0 px",
+                                    "warpStyle": "WarpStyle.NONE",
+                                    "warpDirection": "Direction.HORIZONTAL",
+                                    "warpBend": "0",
+                                    "warpHorizontalDistortion": "0",
+                                    "warpVerticalDistortion": "0",
+                                    "typename": "TextItem"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "indicateur",
+                    "id": 19,
+                    "layerIndex": 12,
+                    "top": 633,
+                    "left": 383,
+                    "bottom": 4172,
+                    "right": 5117,
+                    "haveAsset": true,
+                    "metadata": {
+                        "uuid": "19::6f3991bdf0b6742237ae26e694137058",
+                        "qmlId": "indicateur_219_19",
+                        "exportType": "child",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/indicateur_219_19_219_19.png",
+                            "assetBounds": {
+                                "top": 633,
+                                "left": 383,
+                                "bottom": 4172,
+                                "right": 5117
+                            }
+                        }
+                    },
+                    "children": [
+                        {
+                            "name": "<Path> + <Path>",
+                            "id": 16,
+                            "layerIndex": 11,
+                            "top": 633,
+                            "left": 383,
+                            "bottom": 4172,
+                            "right": 5117,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_path_path__219_16",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 15,
+                            "layerIndex": 10,
+                            "top": 633,
+                            "left": 387,
+                            "bottom": 4016,
+                            "right": 5112,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_15",
+                                "exportType": "merged"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "cluster",
+            "id": 8,
+            "layerIndex": 6,
+            "left": 104,
+            "top": 354,
+            "right": 12230,
+            "bottom": 5646,
+            "haveAsset": true,
+            "metadata": {
+                "uuid": "8::5f66faa281d81709a628a90b1c72f924",
+                "qmlId": "cluster_219_8",
+                "exportType": "component",
+                "assetData": {
+                    "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/cluster_219_8_219_8.png",
+                    "assetBounds": {
+                        "top": 0,
+                        "left": 0,
+                        "bottom": 4364,
+                        "right": 10000
+                    }
+                }
+            },
+            "children": [
+                {
+                    "name": "<Rectangle> + <Guide> + <Guide> + <Guide> + <Guide> + <Path>",
+                    "id": 3,
+                    "layerIndex": 1,
+                    "top": 354,
+                    "left": 104,
+                    "bottom": 5646,
+                    "right": 12230,
+                    "haveAsset": false,
+                    "metadata": {
+                        "qmlId": "_rectangle_guide_gui_219_3",
+                        "exportType": "merged"
+                    }
+                },
+                {
+                    "name": "<Group>",
+                    "id": 6,
+                    "layerIndex": 5,
+                    "top": 458,
+                    "left": 208,
+                    "bottom": 5542,
+                    "right": 12125,
+                    "haveAsset": true,
+                    "metadata": {
+                        "uuid": "6::6a53c02d9b34d537c927c1724ee446b7",
+                        "qmlId": "_group__219_6",
+                        "exportType": "child",
+                        "assetData": {
+                            "assetPath": "C:\\Users\\lba_5\\Desktop\\kevin\\cluster.psd_219/_group__219_6_219_6.png",
+                            "assetBounds": {
+                                "top": 0,
+                                "left": 0,
+                                "bottom": 4266,
+                                "right": 10000
+                            }
+                        }
+                    },
+                    "children": [
+                        {
+                            "name": "<Group>",
+                            "id": 5,
+                            "layerIndex": 4,
+                            "top": 458,
+                            "left": 208,
+                            "bottom": 5542,
+                            "right": 12125,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_5",
+                                "exportType": "merged"
+                            }
+                        },
+                        {
+                            "name": "<Group>",
+                            "id": 4,
+                            "layerIndex": 3,
+                            "top": 458,
+                            "left": 208,
+                            "bottom": 5542,
+                            "right": 12125,
+                            "haveAsset": false,
+                            "metadata": {
+                                "qmlId": "_group__219_4",
+                                "exportType": "merged"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
