@@ -16,7 +16,7 @@ QtObject {
     property int fuelLevel: 18
     property bool fuelLevelIcon: (fuelLevel <= 20) ? true : false
 
-    property int speed
+    property int speed: AppValues.speed
     property string displaySpeed: speed.toString()
 
     property bool parkingIcon: false
@@ -32,10 +32,10 @@ QtObject {
     property bool booting: true
     readonly property real bootDuration: 5000
 
-    Component.onCompleted: {
+    Component.onDestruction: {
         print(rpm)
         print("Printing from context: ", AppValues.rpm)
-        AppValues.rpm = 1250
+//        AppValues.rpm = 1250
     }
 }
 

@@ -194,20 +194,6 @@ Rectangle {
             checkable: true
         }
 
-        Connections {
-            target: slider1
-            onMoved: {
-                Data.Values.speed = slider1.value
-            }
-        }
-
-        Connections {
-            target: slider
-            onMoved: {
-                Data.Values.rpm = slider.value
-            }
-        }
-
         Slider {
             id: slider
             x: 39
@@ -387,6 +373,3 @@ Rectangle {
         }
     ]
 }
-
-
-
